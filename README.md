@@ -1,4 +1,6 @@
 # first-program
 This is my first git repository
 <br>
-AUTHOR- Kritika Singh
+Author- Kritika Singh
+<br>
+About-This repository will contain my programming journey.
